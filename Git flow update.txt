@@ -1,0 +1,8 @@
+Update:
+
+The update and push worked. Took a while (like 20 mimnutes) to start getting the flow back! LOL
+Next stop, running the process through ATOM's git module.
+Then: Try to do the same with VS Code!
+
+See you soon!
+Dan 
